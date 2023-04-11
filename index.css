@@ -1,0 +1,18 @@
+h1 {
+  color: #5af26d;
+}
+p {
+  width: 30rem;
+  height: fit-content;
+  background-color: blue;
+  margin: 2rem;
+  padding: 1rem;
+  border-radius: 2rem;
+  box-shadow: 10px 20px 30px black;
+  transition: .5s ease-in;
+}
+
+p:hover {
+    background-color: bisque;
+    color: red;
+}
